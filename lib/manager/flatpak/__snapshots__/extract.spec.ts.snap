@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`manager/flatpak/extract extractPackageFile 1`] = `
+Object {
+  "deps": Array [
+    Object {
+      "currentVersion": "0.2.7",
+      "datasource": "git-tags",
+      "depName": "pipewire-0",
+      "lookupName": "https://github.com/PipeWire/pipewire.git",
+    },
+  ],
+}
+`;
